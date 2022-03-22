@@ -1,0 +1,29 @@
+nav{
+    a{
+        img{
+            height: 80px;
+        }
+    }
+    #home{
+        font-size: 25px;
+    }
+    .form-name{
+       display: flex;
+        .hiName{
+            font-size: 25px;
+            font-weight: bold;
+            border-bottom: 4px solid #00bcd4;
+            margin-right: 30px;
+        }
+    }
+    
+    #signup{
+        font-size: 25px;
+        border-right: 3px solid #00bcd4;
+        padding-right: 30px;
+    }
+    #signin{
+        font-size: 25px;
+        padding-left: 30px;
+    }
+}
